@@ -4,8 +4,8 @@ import (
 	"github.com/docker/docker/api/types"
 	"github.com/patrickmn/go-cache"
 	"github.com/rs/zerolog/log"
-	"github.com/shinebayar-g/ufw-docker-automated/logger"
-	"github.com/shinebayar-g/ufw-docker-automated/ufwhandler"
+	"github.com/toitzi/ufw-docker-automated/logger"
+	"github.com/toitzi/ufw-docker-automated/ufwhandler"
 )
 
 func main() {
